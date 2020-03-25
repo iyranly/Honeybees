@@ -5,6 +5,15 @@ Honeybees是一个分布式协作工具，为了一个共同的目标，建立�
 
 ![Honeybees功能结构图](https://oss02.bihu.com/image/20200321/95c67cf3a4f4aeba12dc0c07f7bb59da_GY2TGKRXGIYA.png)
 
+
+- 流程图
+![honeybees-时序图](design/honeybees-流程图.png)
+
+- 业务时序图
+![honeybees-时序图](design/honeybees-时序图.png)
+
+
+
 ## 如何运行
 
 进入工程目录后，可运行如下命令：
