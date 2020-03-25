@@ -7,11 +7,12 @@ Honeybees是一个分布式协作工具，为了一个共同的目标，建立�
 
 
 - 流程图
+
 ![honeybees-时序图](design/honeybees-流程图.png)
 
 - 业务时序图
-![honeybees-时序图](design/honeybees-时序图.png)
 
+![honeybees-时序图](design/honeybees-时序图.png)
 
 
 ## 如何运行
